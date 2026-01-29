@@ -2,6 +2,12 @@
 
 A simple calculator application with automated testing and CI/CD.
 
+**Author:** Sai Ram Charan B  
+**Course:** Web Systems  
+**Institution:** NJIT
+
+---
+
 ## Assignment Overview
 
 This project demonstrates:
